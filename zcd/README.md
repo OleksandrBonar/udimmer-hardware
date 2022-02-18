@@ -4,17 +4,17 @@
 ![ZCD](scheme_v2.png?format=raw)
 
 ## Features
- - highly accurate mains zero crossing detection
- - fully isolated and low voltage safe output
- - ultra-low power consumption; worst case power dissipation < 120mW
- - produces symmetrical pulses around zero crossings
- - output pulse stays constant, independent of the mains voltage
- - very low parts count, no precision components required
- - all components can be low voltage SMD
- - works over all voltage ranges (100VAC/240VAC), without modification
+ - Highly accurate mains zero crossing detection
+ - Fully isolated and low voltage safe output
+ - Ultra-low power consumption; worst case power dissipation < 120mW
+ - Produces symmetrical pulses around zero crossings
+ - Output pulse stays constant, independent of the mains voltage
+ - Very low parts count, no precision components required
+ - All components can be low voltage SMD
+ - Works over all voltage ranges (100VAC/240VAC), without modification
  - 50Hz/60Hz compatible
  - 50Hz produces a 0.5ms ZC pulse, 60Hz produces 0.44ms ZC pulse
- - highly stable with varying temperature and aging
+ - Highly stable with varying temperature and aging
 
 ## Components
  - R1,2 220k 1/8W
