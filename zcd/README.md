@@ -1,6 +1,8 @@
 
 # Zero Cross Detector
 
+![ZCD](scheme_v2.png?format=raw)
+
 ## Features
  - highly accurate mains zero crossing detection
  - fully isolated and low voltage safe output
