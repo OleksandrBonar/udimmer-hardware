@@ -1,4 +1,4 @@
 # udimmer-hardware
 
-## ZeroCrossDetector
-![Alt text](zero_cross_detector.png?raw=true)
+## Zero Cross Detector
+![Alt text](zcd/scheme_v2.png?raw=true)
