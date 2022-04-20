@@ -16,15 +16,17 @@
  - 50Hz produces a 0.5ms ZC pulse, 60Hz produces 0.44ms ZC pulse
  - Highly stable with varying temperature and aging
 
-## Components
- - R1,2 220k 1/8W
- - R3 47k 1/8W
- - R4 1k 1/8W
- - R6 10k 1/8W
- - D1,2,3,4,5 1N4148
- - C1 1n 16v
- - C2 10μ 16v
- - U1 4N28 (4N35)
+## Bill of Materials
+| # | Designator | Quantity | Value | Part Number | Manufacturer | Package Type | Description |
+|---|---|---|---|---|---|---|---|
+| 1 | R1, R2 | 2 | 220k |   |   |   | 1/8W |
+| 2 | R3 | 1 | 47k |   |   |   | 1/8W |
+| 3 | R4 | 1 | 1k |   |   |   | 1/8W |
+| 4 | R6 | 1 | 10k |   |   |   | 1/8W |
+| 5 | D1, D2, D3, D4, D5 | 5 |   |   | ST | DO-35 | 1N4148 100V 0.15A 8ns |
+| 6 | C1 | 1 | 1n |   |   |   | 16V |
+| 7 | C2 | 1 | 10μ |   |   |   | 16V |
+| 8 | U1 | 1 |   |   | Vishay Semiconductors | DIP-6 | 4N28 (4N35) CTR > 10 % |
 
 ## References
  - [Zero Crossing Detectors and Comparators](https://sound-au.com/appnotes/an005.htm)
