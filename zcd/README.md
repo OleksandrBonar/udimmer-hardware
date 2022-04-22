@@ -27,6 +27,7 @@
 | 6 | C1 | 1 | 1n |   |   |   | 16V |
 | 7 | C2 | 1 | 10μ |   |   |   | 16V |
 | 8 | U1 | 1 |   |   | Vishay Semiconductors | DIP-6 | 4N28 (4N35) CTR > 10 % |
+| 9 | Q1 | 1 |   |   |   | TO-92 | 2N3904 NPN 60V 0.2A |
 
 ## References
  - [Zero Crossing Detectors and Comparators](https://sound-au.com/appnotes/an005.htm)
